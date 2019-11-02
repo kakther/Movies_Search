@@ -39,7 +39,7 @@ performSearch(){
   $.ajax({
     url: urlString,
     success: (searchResults) => {
-      console.log("Fetchced data successfully")
+      // console.log("Fetchced data successfully")
       // console.log(searchResults);
       const results = searchResults.results
       // console.log(results[0])
@@ -56,7 +56,7 @@ performSearch(){
       this.setState({rows: movieRows})
     },
     error: (xhr, status, err) => {
-      console.error("Failed to fetch data")
+      // console.error("Failed to fetch data")
     }
   })
 }
