@@ -57,6 +57,8 @@ performSearch(){
     },
     error: (xhr, status, err) => {
       // console.error("Failed to fetch data")
+            // console.error("Failed to fetch data")
+
     }
   })
 }
