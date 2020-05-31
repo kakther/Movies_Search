@@ -82,3 +82,5 @@ searchChangeHandler(event) {
 }
 
 export default App;
+
+// Compleated all the pre-work for git pages
