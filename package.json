@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://kakther.github.io/movies_search",
   "dependencies": {
-    "gh-pages": "^3.0.0",
+    "gh-pages": "^5.0.0",
     "jquery": "^3.5.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
